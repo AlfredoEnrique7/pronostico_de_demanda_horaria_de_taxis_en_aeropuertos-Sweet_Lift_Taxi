@@ -61,4 +61,4 @@ pip install pandas numpy matplotlib statsmodels scikit-learn lightgbm
 ---
 
 ### Ver el análisis completo
-👉 [Haz clic aquí para ver el código y los gráficos interactivos](pronostico_de_demanda_horaria_de_taxis_en_aeropuertos—Sweet_Lift_Taxi..ipynb)
+👉 [Haz clic aquí para ver el código y los gráficos interactivos](pronostico_de_demanda_horaria_de_taxis_en_aeropuertos—Sweet_Lift_Taxi.ipynb)
