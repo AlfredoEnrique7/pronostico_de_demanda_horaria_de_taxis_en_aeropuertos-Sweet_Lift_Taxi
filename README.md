@@ -1,10 +1,5 @@
 # Pronóstico de Demanda Horaria de Taxis en Aeropuertos — Sweet Lift Taxi
 
-![Python](https://shields.io)
-![Pandas](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![LightGBM](https://shields.io)
-
 ## Descripción del Proyecto
 La compañía **Sweet Lift Taxi** ha recopilado datos históricos sobre los pedidos de taxis en los aeropuertos entre marzo y agosto de 2018 (registrados en intervalos de 10 minutos). Durante las horas pico, la demanda supera la oferta disponible, generando tiempos de espera prolongados y pérdida de viajes.
 
